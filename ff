@@ -1,0 +1,4 @@
+game:GetService("Players").LocalPlayer.Backpack["AK-103 Kobra"].ACS_Modulo.Variaveis.Ammo.Value = 999999999
+game:GetService("Players").LocalPlayer.Backpack["SIG MCX VIRTUS"].ACS_Modulo.Variaveis.Ammo.Value = 99999999
+game:GetService("Players").LocalPlayer.Backpack["SVD-M"].ACS_Modulo.Variaveis.Ammo.Value = 9999999
+game:GetService("Players").LocalPlayer.Backpack["AK-74M3"].ACS_Modulo.Variaveis.Ammo.Value = 9999999
